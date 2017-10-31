@@ -1,2 +1,2 @@
 my licence 
-copyrights reserved hain
+copyrights reserved @tester
